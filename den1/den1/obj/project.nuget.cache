@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dp5B05u0chG2N5QKqzY+Zon5Ig4mLi9Yikk3V3pX+1Wvpu7N4OsVGsgkmCsR7ekF7LF3FeLZ8s9zZZa7a0AZWg==",
+  "success": true,
+  "projectFilePath": "E:\\с# winform prac\\den1\\den1\\den1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user220\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
